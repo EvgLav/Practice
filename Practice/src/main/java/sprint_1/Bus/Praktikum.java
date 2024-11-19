@@ -19,10 +19,12 @@ public class Praktikum {
     }
 
     private static void increaseTicketNumber(Bus bus) {
+
         bus.ticketNumber = increase(bus.ticketNumber, 1);
     }
 
     private static int increase(int numberToIncrease, int increaser) {
+
         return numberToIncrease + increaser;
     }
 }
