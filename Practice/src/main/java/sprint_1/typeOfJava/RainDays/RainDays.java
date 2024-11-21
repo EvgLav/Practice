@@ -1,4 +1,4 @@
-package sprint_1.RainDays;
+package sprint_1.typeOfJava.RainDays;
 
 
 

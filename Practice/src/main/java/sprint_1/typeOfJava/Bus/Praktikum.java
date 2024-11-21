@@ -1,4 +1,4 @@
-package sprint_1.Bus;
+package sprint_1.typeOfJava.Bus;
 
 public class Praktikum {
     public static void main(String[] args) {
