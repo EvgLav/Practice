@@ -1,6 +1,5 @@
 package sprint_1.listAndHashTable.addInHashTable;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 
 public class Praktikum {
@@ -28,22 +27,25 @@ public class Praktikum {
         stateHolidays.put("Ноябрь ", "4");
         System.out.println(stateHolidays);
 
-
-        System.out.println(stateHolidays.get("Май"));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
